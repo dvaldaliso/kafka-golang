@@ -10,4 +10,4 @@
 # Ajustar los nombres a cliente servidor(No producto consumidor)
 ## sugerencias, para lo que hacemos no hace falta un coordinador, ya con kafka y una cola se puede hacer
 
-[diseno] Diseno.jpeg
+!["diseno"](Diseno.jpeg "Ciao")
