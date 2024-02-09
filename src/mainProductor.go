@@ -14,6 +14,7 @@ const (
 	topicRespuesta = "respuesta"
 )
 
+//Cliente
 func main() {
 	var message string
 	// Configurar el productor y el consumidor

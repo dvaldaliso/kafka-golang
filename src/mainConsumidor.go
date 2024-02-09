@@ -10,6 +10,7 @@ import (
 	kafka "github.com/segmentio/kafka-go"
 )
 
+//Servidor
 func main() {
 	const (
 		brokerAddress  = "localhost:9092"
